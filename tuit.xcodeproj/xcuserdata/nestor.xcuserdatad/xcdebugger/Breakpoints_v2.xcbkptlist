@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9E0287FF-AFBC-477B-8F38-339B22C9AD55"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5E34879-CB70-4EE9-8947-6A0942FB37A6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tuit/App/Posts/Post Details/PostDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "fetchComments()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82C83DB4-A37F-421A-8C5B-4ACF38F4F0FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tuit/App/Posts/Post Details/PostDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "fetchComments()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "82C83DB4-A37F-421A-8C5B-4ACF38F4F0FD - 5192dac6953d1d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;tuit.Comment&gt;, tuit.TypicodeError&gt;) -&gt; () in tuit.PostDetailsViewModel.(fetchComments in _5CF529C7499AFB4CEB73018B128EA6FD)() -&gt; ()"
+                  moduleName = "tuit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nestor/Developer/tuit/tuit/App/Posts/Post%20Details/PostDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "744">
+               </Location>
+               <Location
+                  uuid = "82C83DB4-A37F-421A-8C5B-4ACF38F4F0FD - 2e3aab3e483b1fcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (tuit.Comment) -&gt; tuit.PostDetailsCellViewModel in closure #1 (Swift.Result&lt;Swift.Array&lt;tuit.Comment&gt;, tuit.TypicodeError&gt;) -&gt; () in tuit.PostDetailsViewModel.(fetchComments in _5CF529C7499AFB4CEB73018B128EA6FD)() -&gt; ()"
+                  moduleName = "tuit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nestor/Developer/tuit/tuit/App/Posts/Post%20Details/PostDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
