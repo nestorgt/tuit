@@ -14,11 +14,6 @@
 * All `ViewModels` & `Services` use dependency injection to allow creation of mocks and make it more testable. 
 * No 3rd party libraries,
 * FRP with `Combine`.
-
-## Testing data
-* Default categories are added on `CategoryService`
-* Some transactions for testing are added on `TransactionService` (only on DEBUG mode)
-
 ## Tests
 There are two different targets of test, `unit-tests` for mocked and non-network dependant tests, and `integration-tests` that performs network requests to verify the API endpoints.
 
